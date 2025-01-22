@@ -3,7 +3,8 @@
 ## 1) C# nədir ? ##
 > C# Microsoft tərəfindən 2001-ci ildə yaradılan obyekt yönümlü proqramlaşdırma dilidir. C# proqramlaşdırma dili C və C++ dillərinin üstün tərəflərini alaraq 
 > yaradılıb. Hazırda .Net platformunda ən çox istifadə edilən proqramlaşdırma dilidir. C# ilə web proqramlaşdırma,oyun proqramlaşdırma,masaüstü proqramlar 
-> yazmaq və hətta mobile proqramlaşdırma da mümkündür.
+> yazmaq və hətta mobile proqramlaşdırma da mümkündür.C# açıq mənbədir (open source) və pulsuzdur. Bu proqramlaşdırma dili və onun əsas komponentləri, o cümlədən kompilyator,
+> Microsoft və .NET Foundation tərəfindən açıq mənbə kimi təmin edilir və dəstəklənir. 
 
 ## 2) Sinif (class) nədir? ##
 > Siniflər dəyişənlərı,metodları,propertiləri yığdığımız bir yerdir. Bu metodlari,dəyişənləri istifadə etmək üçün isə həmin sinifdən obyekt yaradılmalıdır.
